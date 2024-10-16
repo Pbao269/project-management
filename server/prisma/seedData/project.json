@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Zephyr",
+      "description": "A futuristic wind energy project.",
+      "startDate": "2023-05-01T00:00:00Z",
+      "endDate": "2024-04-30T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Quantum",
+      "description": "Quantum computing development for next-gen processors.",
+      "startDate": "2023-06-15T00:00:00Z",
+      "endDate": "2024-06-15T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Nimbus",
+      "description": "Cloud computing optimization initiative.",
+      "startDate": "2023-08-01T00:00:00Z",
+      "endDate": "2024-08-01T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Orion",
+      "description": "Aerospace software engineering research.",
+      "startDate": "2023-02-01T00:00:00Z",
+      "endDate": "2023-12-31T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Vanguard",
+      "description": "Next-gen AI-driven financial analysis tools.",
+      "startDate": "2023-03-10T00:00:00Z",
+      "endDate": "2024-01-10T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Spectra",
+      "description": "Advanced research into photonic technologies.",
+      "startDate": "2023-07-20T00:00:00Z",
+      "endDate": "2024-03-20T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Atlas",
+      "description": "Innovative global logistics tracking systems.",
+      "startDate": "2023-04-05T00:00:00Z",
+      "endDate": "2023-10-05T00:00:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Helios",
+      "description": "Solar power advancements and applications.",
+      "startDate": "2023-09-01T00:00:00Z",
+      "endDate": "2024-09-01T00:00:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Aegis",
+      "description": "A defense-focused project on cybersecurity enhancement.",
+      "startDate": "2023-11-01T00:00:00Z",
+      "endDate": "2024-05-01T00:00:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Nova",
+      "description": "Space-based communication network design.",
+      "startDate": "2023-10-10T00:00:00Z",
+      "endDate": "2024-10-10T00:00:00Z"
+    }
+  ]
+  

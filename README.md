@@ -1,6 +1,6 @@
 This is a full-stack Manangement Dashboard Project:
 
- ** Frontend**: Next.js, Tailwind CSS, Material UI Data Grid, Redux Toolkit, Redux Toolkit Query.
+ **Frontend**: Next.js, Tailwind CSS, Material UI Data Grid, Redux Toolkit, Redux Toolkit Query.
  
   **Backend**: Node.js with Express, Prisma (PostgreSQL ORM)
   

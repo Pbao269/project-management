@@ -17,3 +17,6 @@ Functions:
   
 https://drive.google.com/file/d/12Lt5aeWnHTRiuRg6b_lvZY5teolqZqvb/view?usp=sharing
 
+
+AWS diagrams and Data Model Diagram link: https://lucid.app/folder/invitations/accept/inv_9c205ff6-e139-4807-ab16-e592afb1717d
+
